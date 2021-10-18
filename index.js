@@ -1,7 +1,7 @@
 // import express
 const express = require('express');
 
-// have to include and config for the dotenv file
+// have to include and config for the dotenv file7
 require("dotenv").config();
 
 // instantiate app
